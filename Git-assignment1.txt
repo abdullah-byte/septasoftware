@@ -1,0 +1,36 @@
+Abdullah Mumuni Git Assignment For Septa GT
+
+1. Git is a version control system that allows developers to track changes made to their code over 
+time. It facilitates collaboration between developers concurrenently. It also helps tracks code changes over time for historical context and understanding.It can also serve as a backup for codebases. It also enables documentation of codebases and technical functions.
+ 
+2. - Git is a version control system used to track changes to a codebase while github is a web based platform that provides hosting service for git repositories.
+- Git is used to create repositories, track changes, merge code and more while github is used to manages and track these repositories.
+- Git operates locally on a developers machine while github operates over the web.
+
+3. Step1 -To use git for version control you first need to have installed git on your local machine. Start up the gitbash environment to begin. 
+Step2 - create a new repository and initialize it with the command 'git init'. Step3 - add files to the repository with the command 'git add .'
+Step4 - commit the changes made with a comment message using the command "git commit -m'your message'". 
+Step5 - Check the status of your repository using the command 'git status' to ensure the changes have reflected
+Step6 - create a branch or switch where you can work on specific features using the command 'git branch <branch-name>'
+Step7 - Once you are done you can merge those changes into the 'main' or 'master' branch.
+Step8 - Next, you push to your remote repository using the command 'git push origin <branch-name>'
+Note: You can skip a step depending on whether it is a new or old repository.
+
+4. A git repository is a database used to keep track of changes made to a file, collaborate with others, manage history of your work and manage different branches of your development. It stores files depending on their file type, it stores snapshoots of the entire project at each commit. Git stores files based on their contents rather than names using a content-addressable storage model so if no changes are made to the file, git does not restore it.
+
+5. A commit in git is an indicator that changes have been made to a file or a repository. it includes a message that contains the essense of the change. The command to initiate a commit is "git commit -m'your message'"
+
+6. Branching in Git enables developers to work on separate paths of development within a single repository. It involves creating isolated environments for features, fixes, or experiments that do not affect the other individual branches. These branches allow parallel development, prevent conflicts, and facilitate code review. Once work is complete, changes can be merged back into the main codebase using the git terminal or a pull request on github.
+
+
+
+
+
+
+
+
+
+
+
+
+
